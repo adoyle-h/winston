@@ -718,7 +718,7 @@ Adding a custom transport is easy. All you need to do is accept any options
 you need, implement a log() method, and consume it with `winston`.
 
 ``` js
-const Transport = require('winston-transport');
+const Transport = require('@adoyle.me/winston-transport');
 const util = require('util');
 
 //

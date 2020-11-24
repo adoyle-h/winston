@@ -245,7 +245,7 @@ Let's dig in deeper. The example below has been annotated to demonstrate the dif
 
 ``` js
 const { createLogger, transports, format } = require('winston');
-const Transport = require('winston-transport');
+const Transport = require('@adoyle.me/winston-transport');
 const logform = require('logform');
 const { combine, timestamp, label, printf } = logform.format;
 

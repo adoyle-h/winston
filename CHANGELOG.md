@@ -258,7 +258,7 @@ logger.info(
 - (@indexzero, @dabh) Add support for `{ silent }` option to
 ``` js
 require('winston').Logger;
-require('winston-transport').TransportStream;
+require('@adoyle.me/winston-transport').TransportStream;
 ```
 - Better browser support
   - [#1145], (@Jasu) Replace `isstream` with `is-stream` to make stream detection work in browser.
