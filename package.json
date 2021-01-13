@@ -1,7 +1,7 @@
 {
   "name": "@adoyle.me/winston",
   "description": "A logger for just about everything.",
-  "version": "3.3.4",
+  "version": "3.3.5",
   "author": "Charlie Robbins <charlie.robbins@gmail.com>",
   "maintainers": [
     "Jarrett Cruger <jcrugzz@gmail.com>",
